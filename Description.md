@@ -18,7 +18,7 @@ Mit Hilfe des Temperatursensors DS18B20 kann man direkt am Raspberry Pi die Temp
 
 ##### SW
 - [OpenCV](https://opencv.org/)
-- Java Framework: highChart oder chartJS
+- []Java Framework: highChart oder chartJS
 -[Docker](www.docker.com)
  
 ##### HW
