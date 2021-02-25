@@ -14,11 +14,9 @@
 ### Präzise Themenbeschreibung 
 Mit Hilfe des Temperatursensors DS18B20 kann man direkt am Raspberry Pi die Temperatur messen. Der DS18B20 nutzt das 1-Wire Protokoll (Eindraht-Bus). Mit dem 1-Wire-Protokoll können verschiedene Sensoren und Schaltkreise direkt an einem einzigen GPIO-Kontakt des Raspberry Pi verwendet werden.
 
-
+#
 
 ### Verwendete Technologien
-
-
 #### SW
 - [OpenCV](https://opencv.org/)
 - Java Framework: highChart oder chartJS
@@ -28,12 +26,12 @@ Mit Hilfe des Temperatursensors DS18B20 kann man direkt am Raspberry Pi die Temp
 - [Raspberry PI Webcam](https://at.rs-online.com/web/p/raspberry-pi-kameras/9132664/)
 - [Raspberry PI IR Cam](https://at.rs-online.com/web/p/raspberry-pi-kameras/9132673/)
 
-
+#
 
 ### Teamzusammensetzung (Projektleiter muss definiert werden)
 **Projektleiter:** David Thaller
 
-
+#
 
 ### Zeitplan als Tabelle (nur Meilensteine)
 | Was?             | Wann?         |
@@ -43,6 +41,7 @@ Mit Hilfe des Temperatursensors DS18B20 kann man direkt am Raspberry Pi die Temp
 | ...              |               |  
 
 
+#
 
 ### Link zu Github Repo
 https://github.com/ThallerDavid/cpr.team2/edit/main/Description.md
