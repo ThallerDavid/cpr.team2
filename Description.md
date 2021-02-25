@@ -1,13 +1,13 @@
 # Temperaturmessung
 
 ### Ziele
-..* Gesichtserkennung
-2. Unterschied erkennen zwischen Mensch und Objekt
-3. Temperatur messen und ausgeben
-4. Warnungen aussicken bei erhöterte oder zu niederiger Temperatur 
+- Gesichtserkennung
+- Unterschied erkennen zwischen Mensch und Objekt
+- Temperatur messen und ausgeben
+- Warnungen aussicken bei erhöterte oder zu niederiger Temperatur 
 
 ### Nichtziele
-1. unstrukturiertes Arbeiten
+- unstrukturiertes Arbeiten
 
 
 ### Präzise Themenbeschreibung 
