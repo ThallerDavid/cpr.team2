@@ -36,11 +36,11 @@ Mit Hilfe des Temperatursensors DS18B20 kann man direkt am Raspberry Pi die Temp
 
 
 ### Zeitplan als Tabelle (nur Meilensteine)
-| Was?          | Wann?         |
-| ------------- |:-------------:| 
-| col 3 is      | right-aligned | 
-| col 2 is      | centered      |   
-| zebra stripes | are neat      |  
+| Was?             | Wann?         |
+| -------------    |:-------------:| 
+| Grundgerüst      | right-aligned | 
+| col 2 is         | centered      |   
+| zebra stripes    | are neat      |  
 
 
 ### Link zu Github Repo
