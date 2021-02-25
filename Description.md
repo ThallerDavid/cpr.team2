@@ -1,7 +1,7 @@
 # Temperaturmessung
 
 ### Ziele
-1. Gesichtserkennung
+..1. Gesichtserkennung
 2. Unterschied erkennen zwischen Mensch und Objekt
 3. Temperatur messen und ausgeben
 4. Warnungen aussicken bei erhöterte oder zu niederiger Temperatur 
