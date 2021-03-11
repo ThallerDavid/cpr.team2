@@ -49,7 +49,7 @@ Zusätzlich tragen Soft und Hardware einen Teil dazu bei.
 #
 
 ### Erfolge
-#### 11.03.21 </br>
+#### 11.03.21 
 Es wurde erfolgreich gesteckt und mithilfe dem Terminal wurde die Kamera aktiviert. Zusätzlich wurde ein Foto geschossen.
 
 
