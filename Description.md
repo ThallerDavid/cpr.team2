@@ -1,4 +1,4 @@
-# Temperaturmessung
+# Iriserkennung
 
 ### Ziele
 - Auge/Iris wird erkannt
@@ -47,6 +47,12 @@ Zusätzlich tragen Soft und Hardware einen Teil dazu bei.
 
 
 #
+
+### Erfolge
+
+#### 11.03.21 
+Es wurde erfolgreich gesteckt und mithilfe dem Terminal wurde die Kamera aktiviert. Zusätzlich wurde ein Foto geschossen.
+
 
 ### Link zu Github Repo
 https://github.com/ThallerDavid/cpr.team2/edit/main/Description.md
