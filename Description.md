@@ -12,8 +12,8 @@
 
 # 
 ### Präzise Themenbeschreibung 
-Zuerst wird programmiert und eine Schaltung erstellt.
-Ein wichtiges Bautteil ist die Kamera, welche für das Erkennen des Auges zuständig ist. 
+Zuerst wird programmiert und eine Schaltung erstellt.<br>
+Ein wichtiges Bautteil ist die Kamera, welche für das Erkennen des Auges zuständig ist. <br>
 Zusätzlich tragen Soft und Hardware einen Teil dazu bei. 
 
 #
@@ -33,7 +33,7 @@ Zusätzlich tragen Soft und Hardware einen Teil dazu bei.
 #
 
 ### Teamzusammensetzung (Projektleiter muss definiert werden)
-**Projektleiter:** David Thaller 
+**Projektleiter:** David Thaller <br>
 **Teammitglieder:** Mona Angerer, Julian Jaklitsch
 
 #
