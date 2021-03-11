@@ -52,6 +52,18 @@ Zusätzlich tragen Soft und Hardware einen Teil dazu bei.
 #### 11.03.21 
 Es wurde erfolgreich gesteckt und mithilfe dem Terminal wurde die Kamera aktiviert. Zusätzlich wurde ein Foto geschossen.
 
+### Protokolle
+#### 11.03.21 
+1. Raspberry anschließen
+2. Starten
+3. Kamera anschließen
+4. In Terminal ein Update laden mit der Zeile: "SUDO APT-GET UPDATE && SUDO APT-GET UPGRADE" und anschließend die Rasberrykonfiguration öffnen mit "SUDO RASPI-CONFIG" 
+5. Kamera ausgewählt
+6. neu gebooted
+7. im Terminal überprüft, ob die Kamera funktioniert, mit dem Befehl "VCENCMD_CAMERA"
+8. es wurde mit dem Befehl "RASPISTILL -F" die Kamera gestartet und mit "RASPISTILL -T -O IMGNAME.jpg" ein Bild gemacht, mit entsprechender Zeitverzögerung
+9. 
+
 
 ### Link zu Github Repo
 https://github.com/ThallerDavid/cpr.team2/edit/main/Description.md
