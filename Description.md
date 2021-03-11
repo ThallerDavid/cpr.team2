@@ -33,7 +33,7 @@ Zusätzlich tragen Soft und Hardware einen Teil dazu bei.
 #
 
 ### Teamzusammensetzung (Projektleiter muss definiert werden)
-**Projektleiter:** David Thaller
+**Projektleiter:** David Thaller 
 **Teammitglieder:** Mona Angerer, Julian Jaklitsch
 
 #
