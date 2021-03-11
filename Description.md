@@ -38,7 +38,7 @@ Zusätzlich tragen Soft und Hardware einen Teil dazu bei.
 
 #
 
-### Zeitplan als Tabelle (nur Meilensteine)
+### Zeitplan 
 | Was?                                  | Wann?         |
 | -------------                         |-------------  | 
 | Planung                               | 25.02.2021    |
