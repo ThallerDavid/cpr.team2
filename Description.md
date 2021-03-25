@@ -43,7 +43,7 @@ Zusätzlich tragen Soft und Hardware einen Teil dazu bei.
 | -------------                         |-------------  | 
 | Planung                               | 25.02.2021    |
 | Anfang des Projektes, Einteilung      | 11.03.2021    |   
-| ...                                   |               |  
+| Erweiterung und Verbesserung          | 25.03.2021    |  
 
 
 #
