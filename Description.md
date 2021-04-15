@@ -63,6 +63,10 @@ Es wurde erfolgreich gesteckt und mithilfe dem Terminal wurde die Kamera aktivie
 7. im Terminal überprüft, ob die Kamera funktioniert, mit dem Befehl "VCENCMD_CAMERA"
 8. es wurde mit dem Befehl "RASPISTILL -F" die Kamera gestartet und mit "RASPISTILL -T -O IMGNAME.jpg" ein Bild gemacht, mit entsprechender Zeitverzögerung 
 
+#### 15.04.21 
+- Es wurde Python installiert mit dem Befehl "sudo apt-get install python3"
+- Die Liste der Plugins von OpenCV: "sudo apt-cache search opencv"
+
 
 ### Link zu Github Repo
 https://github.com/ThallerDavid/cpr.team2/edit/main/Description.md
