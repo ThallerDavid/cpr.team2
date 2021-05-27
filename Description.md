@@ -45,8 +45,8 @@ Zusätzlich tragen Soft und Hardware einen Teil dazu bei.
 | Anfang des Projektes, Einteilung                         | 11.03.2021    |   
 | Erweiterung und Verbesserung                             | 25.03.2021    |  
 | Python wurde installiert & Pluginsliste (OpenCV)         | 15.04.2021    |  
-| Kamera wurde aktiviert                                   | 22.04.2021    |   
-| Iriserkennung erfolgreich                                | 29.04.2021    |
+|                                                          | 22.04.2021    |   
+| Kamera wurde aktiviert                                   | 29.04.2021    |
 | neuer und besserer Raspberry                             | 06.05.2021    |  
 | recherche zu ChartJS                                     | 20.05.2021    |  
 | Iriserkennung erfolgreich mit neuem Raspberry            | 27.05.2021    |  
@@ -72,25 +72,25 @@ Zusätzlich tragen Soft und Hardware einen Teil dazu bei.
 
 
 #### 29.04.21 
--Kamera wurde aktiviert
+- Kamera wurde aktiviert
 
 
 #### 03.05.21 
--Iriserkennung wurde erfolgreich programmiert
+- Iriserkennung wurde erfolgreich programmiert
 
 
 #### 06.05.21 
--Arbeiten mit neuem und besseren Raspberry 
--Raspberry wurde neu aufgesetzt
--nun können wir effektiver arbeiten
+- Arbeiten mit neuem und besseren Raspberry 
+- Raspberry wurde neu aufgesetzt
+- nun können wir effektiver arbeiten
 
 
 #### 20.05.21 
--recherche zu ChartJS
+- recherche zu ChartJS
 
 
 #### 27.05.21 
-aktuell: Iriserkennung funktioniert
+- aktuell: Iriserkennung funktioniert
 
 
 ### Link zu Github Repo
