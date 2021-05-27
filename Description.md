@@ -39,12 +39,17 @@ Zusätzlich tragen Soft und Hardware einen Teil dazu bei.
 #
 
 ### Zeitplan 
-| Was?                                  | Wann?         |
-| -------------                         |-------------  | 
-| Planung                               | 25.02.2021    |
-| Anfang des Projektes, Einteilung      | 11.03.2021    |   
-| Erweiterung und Verbesserung          | 25.03.2021    |  
-
+| Was?                                                     | Wann?         |
+| -------------                                            |-------------  | 
+| Planung                                                  | 25.02.2021    |
+| Anfang des Projektes, Einteilung                         | 11.03.2021    |   
+| Erweiterung und Verbesserung                             | 25.03.2021    |  
+| Python wurde installiert & Pluginsliste (OpenCV)         | 15.04.2021    |  
+| Erweiterung und Verbesserung                             | 29.04.2021    |  
+| Erweiterung und Verbesserung                             | 03.05.2021    |  
+| Erweiterung und Verbesserung                             | 06.05.2021    |  
+| Erweiterung und Verbesserung                             | 20.05.2021    |  
+| Erweiterung und Verbesserung                             | 27.05.2021    |  
 
 #
 
