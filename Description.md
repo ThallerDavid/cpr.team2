@@ -96,8 +96,9 @@ Zusätzlich tragen Soft und Hardware einen Teil dazu bei.
 
 #### 27.05.21 
 - aktuell: Iriserkennung funktioniert mit neuem Raspberry
-#
-![WhatsApp Image 2021-05-27 at 12 28 54](https://user-images.githubusercontent.com/74356324/119813071-23ab0500-bee9-11eb-8faf-253c5d3a3a43.jpeg)
+
+![WhatsApp Image 2021-05-27 at 12 50 23](https://user-images.githubusercontent.com/74356324/119813980-3245ec00-beea-11eb-9ce8-f9c13b78149e.jpeg)
+
 
 
 ### Link zu Github Repo
