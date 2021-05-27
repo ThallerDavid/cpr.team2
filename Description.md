@@ -48,8 +48,8 @@ Zusätzlich tragen Soft und Hardware einen Teil dazu bei.
 | Kamera wurde aktiviert                                   | 22.04.2021    |   
 | Iriserkennung erfolgreich                                | 29.04.2021    |
 | neuer und besserer Raspberry                             | 06.05.2021    |  
-| Erweiterung und Verbesserung                             | 20.05.2021    |  
-| Erweiterung und Verbesserung                             | 27.05.2021    |  
+| recherche zu ChartJS                                     | 20.05.2021    |  
+| Iriserkennung erfolgreich mit neuem Raspberry            | 27.05.2021    |  
 
 #
 
