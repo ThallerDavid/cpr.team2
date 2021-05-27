@@ -53,10 +53,6 @@ Zusätzlich tragen Soft und Hardware einen Teil dazu bei.
 
 #
 
-### Erfolge
-#### 11.03.21 
-Es wurde erfolgreich gesteckt und mithilfe dem Terminal wurde die Kamera aktiviert. Zusätzlich wurde ein Foto geschossen.
-
 ### Protokolle
 #### 11.03.21 
 1. Raspberry anschließen
@@ -67,6 +63,8 @@ Es wurde erfolgreich gesteckt und mithilfe dem Terminal wurde die Kamera aktivie
 6. neu gebooted
 7. im Terminal überprüft, ob die Kamera funktioniert, mit dem Befehl "VCENCMD_CAMERA"
 8. es wurde mit dem Befehl "RASPISTILL -F" die Kamera gestartet und mit "RASPISTILL -T -O IMGNAME.jpg" ein Bild gemacht, mit entsprechender Zeitverzögerung 
+-> Es wurde erfolgreich gesteckt und mithilfe dem Terminal wurde die Kamera aktiviert. Zusätzlich wurde ein Foto geschossen.
+
 
 #### 15.04.21 
 - Es wurde Python installiert mit dem Befehl "sudo apt-get install python3"
