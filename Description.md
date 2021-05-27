@@ -95,7 +95,7 @@ Zusätzlich tragen Soft und Hardware einen Teil dazu bei.
 
 
 #### 27.05.21 
-- aktuell: Iriserkennung funktioniert
+- aktuell: Iriserkennung funktioniert mit neuem Raspberry
 
 
 ### Link zu Github Repo
