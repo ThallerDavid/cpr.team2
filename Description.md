@@ -81,8 +81,8 @@ Es wurde erfolgreich gesteckt und mithilfe dem Terminal wurde die Kamera aktivie
 
 
 #### 06.05.21 
--neuer Raspberry 
--wurde neu aufgesetzt
+-Arbeiten mit neuem und besseren Raspberry 
+-Raspberry wurde neu aufgesetzt
 -nun können wir effektiver arbeiten
 
 
