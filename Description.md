@@ -68,5 +68,29 @@ Es wurde erfolgreich gesteckt und mithilfe dem Terminal wurde die Kamera aktivie
 - Die Liste der Plugins von OpenCV: "sudo apt-cache search opencv"
 
 
+#### 22.04.21 
+
+
+
+#### 29.04.21 
+
+
+
+#### 03.05.21 
+
+
+
+#### 06.05.21 
+
+
+
+#### 20.05.21 
+
+
+
+#### 27.05.21 
+
+
+
 ### Link zu Github Repo
 https://github.com/ThallerDavid/cpr.team2/edit/main/Description.md
