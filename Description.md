@@ -73,23 +73,25 @@ Es wurde erfolgreich gesteckt und mithilfe dem Terminal wurde die Kamera aktivie
 
 
 #### 29.04.21 
-
+-Kamera wurde aktiviert
 
 
 #### 03.05.21 
-
+-Iriserkennung wurde erfolgreich programmiert
 
 
 #### 06.05.21 
-
+-neuer Raspberry 
+-wurde neu aufgesetzt
+-nun können wir effektiver arbeiten
 
 
 #### 20.05.21 
-
+-recherche zu ChartJS
 
 
 #### 27.05.21 
-
+aktuell: Iriserkennung funktioniert
 
 
 ### Link zu Github Repo
