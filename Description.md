@@ -68,10 +68,6 @@ Es wurde erfolgreich gesteckt und mithilfe dem Terminal wurde die Kamera aktivie
 - Die Liste der Plugins von OpenCV: "sudo apt-cache search opencv"
 
 
-#### 22.04.21 
-
-
-
 #### 29.04.21 
 -Kamera wurde aktiviert
 
