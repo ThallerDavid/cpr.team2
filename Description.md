@@ -48,6 +48,7 @@ Zusätzlich tragen Soft und Hardware einen Teil dazu bei.
 | Kamera wurde aktiviert                                   | 22.04.2021    |   
 | beschädigte Ordnerstruktur                               | 29.04.2021    |
 | neuer und besserer Raspberry                             | 06.05.2021    |  
+| Iriserkennung funtioniert                                | 13.05.2021    |  
 | recherche zu ChartJS                                     | 20.05.2021    |  
 | Iriserkennung erfolgreich mit neuem Raspberry            | 27.05.2021    |  
 
@@ -76,7 +77,7 @@ Zusätzlich tragen Soft und Hardware einen Teil dazu bei.
 
 
 #### 29.04.21 
-- Ordnerstruktur war beschädigt 
+- Ordnerstruktur wurde beschädigt 
 - Es wurde von vorne begonnen
 
 #### 06.05.21 
