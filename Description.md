@@ -55,6 +55,7 @@ Zusätzlich tragen Soft und Hardware einen Teil dazu bei.
 | Server und darauf ChartJS zum Laufen gebracht            | 10.06.2021    |  
 
 
+![image](https://user-images.githubusercontent.com/74356324/122387511-3ad09600-cf6f-11eb-965a-85b7f12d8422.png)
 
 
 
@@ -108,6 +109,7 @@ Zusätzlich tragen Soft und Hardware einen Teil dazu bei.
 - aktuell: Iriserkennung funktioniert mit neuem Raspberry
 
 ![WhatsApp Image 2021-05-27 at 12 50 23](https://user-images.githubusercontent.com/74356324/119813980-3245ec00-beea-11eb-9ce8-f9c13b78149e.jpeg)
+
 
 
 
