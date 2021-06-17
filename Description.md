@@ -51,6 +51,12 @@ Zusätzlich tragen Soft und Hardware einen Teil dazu bei.
 | Iriserkennung funtioniert                                | 13.05.2021    |  
 | recherche zu ChartJS                                     | 20.05.2021    |  
 | Iriserkennung erfolgreich mit neuem Raspberry            | 27.05.2021    |  
+| Frei                                                     | 03.06.2021    |  
+| Server und darauf ChartJS zum Laufen gebracht            | 10.06.2021    |  
+
+
+
+
 
 #
 
