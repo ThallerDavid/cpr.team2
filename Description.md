@@ -56,7 +56,8 @@ Zusätzlich tragen Soft und Hardware einen Teil dazu bei.
 
 ### Protokolle
 #### PDF: 
-[cpr (2) (1).pdf](https://github.com/ThallerDavid/cpr.team2/files/6630329/cpr.2.1.pdf)
+[cpr (2) (2).pdf](https://github.com/ThallerDavid/cpr.team2/files/6669024/cpr.2.2.pdf)
+
 
 #### 11.03.21 
 1. Raspberry anschließen
