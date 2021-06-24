@@ -65,6 +65,10 @@ Zusätzlich tragen Soft und Hardware einen Teil dazu bei.
 #### PDF: 
 [cpr.pdf](https://github.com/ThallerDavid/cpr.team2/files/6669661/cpr.pdf)
 
+#### Powerpoint: 
+[Semester Raspberry.pptx](https://github.com/ThallerDavid/cpr.team2/files/6708463/Semester.Raspberry.pptx)
+
+
 
 #### 11.03.21 
 1. Raspberry anschließen
